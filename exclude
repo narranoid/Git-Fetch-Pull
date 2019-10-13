@@ -1,0 +1,12 @@
+# If your .git/info/exclude is empty or does not exist, 
+# you can copy this file to your .git/info directory.
+# otherwise you can copy the list below into your .git/info/exclude file.
+/git-fetch-pull-lfs-fetch-pull.sh
+/git-fetch-pull-lfs-fetch.sh
+/git-fetch-pull.sh
+/git-fetch.sh
+/git-lfs-fetch-pull.sh
+/git-lfs-fetch.sh
+/git-lfs-pull.sh
+/git-pull-lfs-fetch-pull.sh
+/git-pull.sh
